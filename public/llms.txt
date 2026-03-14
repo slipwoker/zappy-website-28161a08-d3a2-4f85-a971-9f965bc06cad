@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מחפשים דירה חדשה? קבוצת ברום מציעה דירות חדשות למכירה מקבלן במחירים אטרקטיביים. פרויקטים איכותיים למשפחות משדרגות. גלו את הדירה המושלמת עכשיו!
+
+### פרויקטים
+https://example.com/projects
+עיינו בפרויקטים הנוכחיים שלנו! דירות יוקרה למכירה ופרויקטי נדלן איכותיים ברחבי ישראל. תכנון מתקדם, ביצוע מושלם ומחירים הוגנים. בואו למצוא את הבית הבא שלכם!
+
+### אודות
+https://example.com/about
+קבוצת ברום - חברה יזמית מובילה בתחום הנדלן המתמחה בבניית דירות איכותיות למשפחות ישראליות. הכירו את הערכים, הניסיון והמקצועיות שמאחורי כל פרויקט שלנו.
+
+### צור קשר
+https://example.com/contact
+מעוניינים בדירה חדשה? צרו קשר עם קבוצת ברום עוד היום! נציגינו המקצועיים ילוו אתכם בכל שלב עד למציאת הדירה המושלמת. התייעצות ראשונה ללא התחייבות!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
